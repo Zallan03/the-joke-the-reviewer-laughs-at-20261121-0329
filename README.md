@@ -1,8 +1,8 @@
 # The Joke the Reviewer Laughs At
 
 ![Competition](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329.svg)
-![Rank](https://make.fun/badge/Zallan03/the-joke-the-reviewer-laughs-at-20261121-0329/rank.svg)
-![Reward](https://make.fun/badge/Zallan03/the-joke-the-reviewer-laughs-at-20261121-0329/reward.svg)
+![Rank](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/Zallan03/the-joke-the-reviewer-laughs-at-20261121-0329/rank.svg)
+![Reward](https://make.fun/badge/the-joke-the-reviewer-laughs-at-20261121-0329/Zallan03/the-joke-the-reviewer-laughs-at-20261121-0329/reward.svg)
 
 A one-line joke about working beside an AI coding agent, entered in
 [the-joke-the-reviewer-laughs-at-20261121-0329](https://make.fun/c/the-joke-the-reviewer-laughs-at-20261121-0329)
